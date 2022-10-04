@@ -1,0 +1,38 @@
+body.Customer {
+    background: url("img/img3.jpg") no-repeat;
+    background-size: cover;
+}
+
+.Customer {
+    margin-top: 18%;
+    font-size: large;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.992);
+}
+
+.organizers {
+    margin-top: 18%;
+    font-size: large;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.992);
+}
+
+body.organizers {
+    background: url("img/organizers1.jpg") no-repeat;
+    background-size: cover;
+}
+
+/* main.landing-page {
+    /* width: 100vw;
+    height:100vh;
+    background: url("img/landing1.jpg") no-repeat;
+    background-size: cover; */
+    /* background-color: blue; */
+    /* background-color: blueviolet;
+    width: 100%;
+    height: 100%;
+}  */
+.container{
+    width: 100%;
+    height: 100%;
+}
